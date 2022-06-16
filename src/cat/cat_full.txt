@@ -1,0 +1,63 @@
+    1 sb	dok
+    2 14	awd	41		w
+    3 Zzz
+    4 its
+    5 My
+    6 test
+    7 From
+    8 This
+    9 cat
+    10 365
+    11 Doubt
+    12 awdawdadw eawdawdaww	awdawda	awdadwawdads
+    13 SAB
+    1 sb	dok
+    2 14	awd	41		w
+    3 Zzz
+    4 its
+    5 My
+    6 test
+    7 From
+    8 This
+    9 cat
+    10 365
+    11 Doubt
+    12 awdawdadw eawdawdaww	awdawda	awdadwawdads
+    13 SAB
+    1 sb	dok
+    2 14	awd	41		w
+    3 Zzz
+    4 its
+    5 My
+    6 test
+    7 From
+    8 This
+    9 cat
+    10 365
+    11 Doubt
+    12 awdawdadw eawdawdaww	awdawda	awdadwawdads
+    13 SAB
+sb^dok
+14^awd^41^w
+Zzz
+its
+My
+test
+From
+This
+cat
+365
+Doubt
+awdawdadw eawdawdaww^awdawda^awdadwawdads
+SAB  awd14 awdawd   41    wd$
+Zzz$
+its$
+My$
+test$
+From$
+This$
+cat$
+365$
+Doubt$
+awdawdadw eawdawdaww	awdawda	awdadwawdads$
+Ss
